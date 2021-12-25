@@ -1,0 +1,3 @@
+[submodule "ocrlib"]
+	path = ocrlib
+	url = git@github.com:halfdb/ocrlib
