@@ -1,0 +1,3 @@
+services:
+  ocr-server:
+    image: otiai10/ocrserver
