@@ -1,7 +1,7 @@
 import time
 from ctypes import *
 
-lib = CDLL('./ocr/ocr.so')
+lib = CDLL('./ocrlib/ocr.so')
 
 read = lib.read
 
